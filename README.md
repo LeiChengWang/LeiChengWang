@@ -1,6 +1,6 @@
 ## Welcome to 墨染沁竹 的 GitHub主页👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeiChengWang&show_icons=true&theme=ambient_gradient&hide=stars&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiChengWang&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiChengWang&layout=donut&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
